@@ -1,0 +1,1 @@
+askme.o: ../askme.cpp
